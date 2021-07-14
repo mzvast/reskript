@@ -4,8 +4,8 @@
   <ShortName>reSKRipt</ShortName>
   <Description>Search reSKRipt</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://ecomfe.github.io/reskript/reskript/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://ecomfe.github.io/reskript/reskript/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://ecomfe.github.io/reskript/reskript/opensearch.xml" />
-  <moz:SearchForm>https://ecomfe.github.io/reskript/reskript/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://ecomfe.github.io/reskript/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://ecomfe.github.io/reskript/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://ecomfe.github.io/reskript/opensearch.xml" />
+  <moz:SearchForm>https://ecomfe.github.io/reskript/</moz:SearchForm>
 </OpenSearchDescription>
