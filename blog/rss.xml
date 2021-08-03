@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>reSKRipt Blog</title>
+        <link>https://ecomfe.github.io/reskript/blog</link>
+        <description>reSKRipt Blog</description>
+        <lastBuildDate>Tue, 03 Aug 2021 05:54:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[用skr play调试需要路由的组件]]></title>
+            <link>https://ecomfe.github.io/reskript/blog/play-with-router</link>
+            <guid>用skr play调试需要路由的组件</guid>
+            <pubDate>Tue, 03 Aug 2021 05:54:03 GMT</pubDate>
+            <description><![CDATA[在使用reSKRipt的时候，我们非常推荐使用skr play命令来调试单个组件，它会为你提供一个可实时编程的界面，实时看到对应组件的可交互界面。]]></description>
+        </item>
+    </channel>
+</rss>
