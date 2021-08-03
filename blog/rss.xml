@@ -4,15 +4,22 @@
         <title>reSKRipt Blog</title>
         <link>https://ecomfe.github.io/reskript/blog</link>
         <description>reSKRipt Blog</description>
-        <lastBuildDate>Tue, 03 Aug 2021 05:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 08:45:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[用skr play调试需要路由的组件]]></title>
             <link>https://ecomfe.github.io/reskript/blog/play-with-router</link>
             <guid>用skr play调试需要路由的组件</guid>
-            <pubDate>Tue, 03 Aug 2021 05:54:03 GMT</pubDate>
+            <pubDate>Tue, 03 Aug 2021 08:45:05 GMT</pubDate>
             <description><![CDATA[在使用reSKRipt的时候，我们非常推荐使用skr play命令来调试单个组件，它会为你提供一个可实时编程的界面，实时看到对应组件的可交互界面。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[导入SVG文件规则调整]]></title>
+            <link>https://ecomfe.github.io/reskript/blog/svg-import-change</link>
+            <guid>导入SVG文件规则调整</guid>
+            <pubDate>Tue, 03 Aug 2021 08:45:05 GMT</pubDate>
+            <description><![CDATA[在之前版本的reSKRipt中，你可以通过ReactComponent这一命名导出中获得一个SVG转换出来的组件：]]></description>
         </item>
     </channel>
 </rss>

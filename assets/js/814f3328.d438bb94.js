@@ -1,1 +1,0 @@
-(self.webpackChunk_reskript_site=self.webpackChunk_reskript_site||[]).push([[2535],{6353:e=>{"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u7528skr play\u8c03\u8bd5\u9700\u8981\u8def\u7531\u7684\u7ec4\u4ef6","permalink":"/reskript/blog/play-with-router"}]}')}}]);
