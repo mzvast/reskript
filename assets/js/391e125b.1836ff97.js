@@ -1,0 +1,1 @@
+(self.webpackChunk_reskript_site=self.webpackChunk_reskript_site||[]).push([[8890],{8412:e=>{"use strict";e.exports=JSON.parse('{"allTagsPath":"/reskript/blog/tags","slug":"babel","name":"babel","count":1,"permalink":"/reskript/blog/tags/babel"}')}}]);
