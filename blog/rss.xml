@@ -4,29 +4,29 @@
         <title>reSKRipt Blog</title>
         <link>https://ecomfe.github.io/reskript/blog</link>
         <description>reSKRipt Blog</description>
-        <lastBuildDate>Wed, 11 Aug 2021 11:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Aug 2021 09:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[用skr play调试需要路由的组件]]></title>
+            <link>https://ecomfe.github.io/reskript/blog/play-with-router</link>
+            <guid>用skr play调试需要路由的组件</guid>
+            <pubDate>Thu, 12 Aug 2021 09:24:47 GMT</pubDate>
+            <description><![CDATA[在使用reSKRipt的时候，我们非常推荐使用skr play命令来调试单个组件，它会为你提供一个可实时编程的界面，实时看到对应组件的可交互界面。]]></description>
+        </item>
         <item>
             <title><![CDATA[导入SVG文件规则调整]]></title>
             <link>https://ecomfe.github.io/reskript/blog/svg-import-change</link>
             <guid>导入SVG文件规则调整</guid>
-            <pubDate>Wed, 11 Aug 2021 11:19:15 GMT</pubDate>
+            <pubDate>Thu, 12 Aug 2021 09:24:47 GMT</pubDate>
             <description><![CDATA[在之前版本的reSKRipt中，你可以通过ReactComponent这一命名导出中获得一个SVG转换出来的组件：]]></description>
         </item>
         <item>
             <title><![CDATA[支持Reflect Metadata]]></title>
             <link>https://ecomfe.github.io/reskript/blog/use-reflect-metadata</link>
             <guid>支持Reflect Metadata</guid>
-            <pubDate>Wed, 11 Aug 2021 11:19:15 GMT</pubDate>
+            <pubDate>Thu, 12 Aug 2021 09:24:47 GMT</pubDate>
             <description><![CDATA[reSKRipt从v1.13.0起，增加了对Reflect.metadata的支持，对应TyepScript中的emitDecoratorMetadata配置项。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用skr play调试需要路由的组件]]></title>
-            <link>https://ecomfe.github.io/reskript/blog/play-with-router</link>
-            <guid>用skr play调试需要路由的组件</guid>
-            <pubDate>Wed, 11 Aug 2021 11:19:15 GMT</pubDate>
-            <description><![CDATA[在使用reSKRipt的时候，我们非常推荐使用skr play命令来调试单个组件，它会为你提供一个可实时编程的界面，实时看到对应组件的可交互界面。]]></description>
         </item>
     </channel>
 </rss>
