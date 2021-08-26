@@ -4,36 +4,43 @@
         <title>reSKRipt Blog</title>
         <link>https://ecomfe.github.io/reskript/blog</link>
         <description>reSKRipt Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 05:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 09:54:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[用全局环境变量做好升级2.0的准备]]></title>
-            <link>https://ecomfe.github.io/reskript/blog/enable-deprecation-flag</link>
-            <guid>用全局环境变量做好升级2.0的准备</guid>
-            <pubDate>Thu, 26 Aug 2021 05:44:19 GMT</pubDate>
-            <description><![CDATA[在2021年8月19日，webpack-dev-server发布了4.0.0版本。作为reSKRipt计划中的一部分，我们将在这个时间点开始准备2.0.0版本的升级。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用skr play调试需要路由的组件]]></title>
-            <link>https://ecomfe.github.io/reskript/blog/play-with-router</link>
-            <guid>用skr play调试需要路由的组件</guid>
-            <pubDate>Thu, 26 Aug 2021 05:44:19 GMT</pubDate>
-            <description><![CDATA[在使用reSKRipt的时候，我们非常推荐使用skr play命令来调试单个组件，它会为你提供一个可实时编程的界面，实时看到对应组件的可交互界面。]]></description>
-        </item>
         <item>
             <title><![CDATA[导入SVG文件规则调整]]></title>
             <link>https://ecomfe.github.io/reskript/blog/svg-import-change</link>
             <guid>导入SVG文件规则调整</guid>
-            <pubDate>Thu, 26 Aug 2021 05:44:19 GMT</pubDate>
+            <pubDate>Thu, 26 Aug 2021 09:54:36 GMT</pubDate>
             <description><![CDATA[在之前版本的reSKRipt中，你可以通过ReactComponent这一命名导出中获得一个SVG转换出来的组件：]]></description>
         </item>
         <item>
             <title><![CDATA[支持Reflect Metadata]]></title>
             <link>https://ecomfe.github.io/reskript/blog/use-reflect-metadata</link>
             <guid>支持Reflect Metadata</guid>
-            <pubDate>Thu, 26 Aug 2021 05:44:19 GMT</pubDate>
+            <pubDate>Thu, 26 Aug 2021 09:54:36 GMT</pubDate>
             <description><![CDATA[reSKRipt从v1.13.0起，增加了对Reflect.metadata的支持，对应TyepScript中的emitDecoratorMetadata配置项。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[V2 - 望之如梅]]></title>
+            <link>https://ecomfe.github.io/reskript/blog/v2-long-awaited</link>
+            <guid>V2 - 望之如梅</guid>
+            <pubDate>Thu, 26 Aug 2021 09:54:36 GMT</pubDate>
+            <description><![CDATA[很高兴在这一刻向大家介绍reSKRipt V2版本的正式发布。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用全局环境变量做好升级2.0的准备]]></title>
+            <link>https://ecomfe.github.io/reskript/blog/enable-deprecation-flag</link>
+            <guid>用全局环境变量做好升级2.0的准备</guid>
+            <pubDate>Thu, 26 Aug 2021 09:54:36 GMT</pubDate>
+            <description><![CDATA[在2021年8月19日，webpack-dev-server发布了4.0.0版本。作为reSKRipt计划中的一部分，我们将在这个时间点开始准备2.0.0版本的升级。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用skr play调试需要路由的组件]]></title>
+            <link>https://ecomfe.github.io/reskript/blog/play-with-router</link>
+            <guid>用skr play调试需要路由的组件</guid>
+            <pubDate>Thu, 26 Aug 2021 09:54:36 GMT</pubDate>
+            <description><![CDATA[在使用reSKRipt的时候，我们非常推荐使用skr play命令来调试单个组件，它会为你提供一个可实时编程的界面，实时看到对应组件的可交互界面。]]></description>
         </item>
     </channel>
 </rss>
